@@ -20,5 +20,8 @@ The analysis and procedure are documented in the _Jupyter Notebook_ named **Clus
   * Seaborn: `pip install seaborn`
 
 ## Contact
-* [**Isaac Arroyo**](https://www.linkedin.com/in/isaac-arroyo/): isaacarroyov@outlook.com
-* [**Enrique Camacho**](https://www.linkedin.com/in/ekamacho/)
+* [**Isaac Arroyo**](https://www.linkedin.com/in/isaac-arroyo/):
+  * e-mail: isaacarroyov@outlook.com
+* [**Enrique Camacho**](https://www.linkedin.com/in/ekamacho/):
+  * e-mail: enrique.camacho@gmail.com
+  * [GitHub](https://github.com/enriquecamacho)
