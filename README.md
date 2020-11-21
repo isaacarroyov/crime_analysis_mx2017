@@ -7,7 +7,7 @@ _Camacho-Perez Enrique, Arroyo-Velázquez Isaac_
 During the elective course of "Data Science" taught by Prof. Enrique Camacho at the Faculty of Engineering UADY, we performed a task to understand and practice the K-Means algorithm (an unsupervised learning algorithm) and the selection of optimal number of clusters with the help of the **Elbow Method**. In this repository we go a little deeper than usual in class and compare it against another algorithm for selecting the optimal number of clusters called the **Silhouette Method.**
 
 ## Medium
-The analysis and procedure are documented in the _Jupyter Notebook_ named **ClusterAnalysis_CrimesMexico2017_en.ipynb** and in the following [Medium's article](https://isaacarroyov.medium.com/analysis-of-crimes-in-mexico-during-2017-with-machine-learning-techniques-cluster-analysis-9c25147dfa86):
+The analysis and procedure are documented in the _Jupyter Notebook_ named **ClusterAnalysis_CrimesMexico2017_en.ipynb** and in the following [Medium's article](https://towardsdatascience.com/analysis-of-crimes-in-mexico-during-2017-with-machine-learning-techniques-cluster-analysis-9c25147dfa86):
 
 ![mediums_article](figures/medium_article_isaacarroyov.PNG)
 
